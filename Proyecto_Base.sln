@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClases", "BibliotecaClases\BibliotecaClases.csproj", "{832173FD-686F-4523-B322-EDFFF9320F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaControlador", "BibliotecaControlador\BibliotecaControlador.csproj", "{F078A05C-2CFE-46B0-8D88-42A0C295E76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vista", "vista\vista.csproj", "{8158D2F3-322B-41A9-B7F2-4A364EC17997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832173FD-686F-4523-B322-EDFFF9320F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832173FD-686F-4523-B322-EDFFF9320F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832173FD-686F-4523-B322-EDFFF9320F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832173FD-686F-4523-B322-EDFFF9320F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F078A05C-2CFE-46B0-8D88-42A0C295E76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F078A05C-2CFE-46B0-8D88-42A0C295E76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F078A05C-2CFE-46B0-8D88-42A0C295E76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F078A05C-2CFE-46B0-8D88-42A0C295E76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8158D2F3-322B-41A9-B7F2-4A364EC17997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8158D2F3-322B-41A9-B7F2-4A364EC17997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8158D2F3-322B-41A9-B7F2-4A364EC17997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8158D2F3-322B-41A9-B7F2-4A364EC17997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

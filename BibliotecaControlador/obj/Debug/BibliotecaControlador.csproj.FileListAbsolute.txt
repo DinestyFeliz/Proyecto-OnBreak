@@ -1,0 +1,7 @@
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaControlador\bin\Debug\BibliotecaClases.dll
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaControlador\bin\Debug\BibliotecaClases.pdb
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb

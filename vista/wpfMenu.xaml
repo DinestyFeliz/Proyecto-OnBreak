@@ -1,0 +1,19 @@
+﻿<Window x:Class="vista.wpfMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vista"
+        mc:Ignorable="d"
+        Title="MENU PRINCIPAL SISTEMA" Height="476" Width="648.333" WindowState="Maximized">
+    <Grid Margin="0,0,2,0">
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="31" VerticalAlignment="Top" Width="638">
+            <MenuItem Header="ARCHIVO" Width="65" Height="21">
+                <MenuItem x:Name="mnuGrabar" Header="GRABAR" HorizontalAlignment="Left" Width="145" Click="mnuGrabar_Click"/>
+                <MenuItem x:Name="mnuListar" Header="LISTAR" HorizontalAlignment="Left" Width="145" Click="mnuListar_Click"/>
+                <MenuItem x:Name="mnuSalir" Header="SALIR" HorizontalAlignment="Left" Width="145" Click="mnuSalir_Click"/>
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>

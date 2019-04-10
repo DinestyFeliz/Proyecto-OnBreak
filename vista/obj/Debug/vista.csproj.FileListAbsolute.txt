@@ -1,0 +1,28 @@
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\bin\Debug\vista.exe.config
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\bin\Debug\vista.exe
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\bin\Debug\vista.pdb
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista.csprojResolveAssemblyReference.cache
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\MainWindow.g.cs
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\App.g.cs
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista_MarkupCompile.cache
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista_MarkupCompile.lref
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\MainWindow.baml
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista.g.resources
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista.Properties.Resources.resources
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista.csproj.GenerateResource.Cache
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista.exe
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista.pdb
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\bin\Debug\BibliotecaClases.dll
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\bin\Debug\BibliotecaControlador.dll
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\bin\Debug\BibliotecaClases.pdb
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\bin\Debug\BibliotecaControlador.pdb
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\wpfMenu.g.cs
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\wpfMenu.baml
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\wpfListar.g.cs
+F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\wpfListar.baml
+K:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\bin\Debug\vista.exe.config
+K:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista.exe
+K:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista.pdb
+C:\Users\Usuario\Desktop\SolucionEjemplo\vista\bin\Debug\vista.exe.config
+C:\Users\Usuario\Desktop\SolucionEjemplo\vista\obj\Debug\vista.exe
+C:\Users\Usuario\Desktop\SolucionEjemplo\vista\obj\Debug\vista.pdb
