@@ -26,3 +26,6 @@ K:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\vista\obj\Debug\vista.pdb
 C:\Users\Usuario\Desktop\SolucionEjemplo\vista\bin\Debug\vista.exe.config
 C:\Users\Usuario\Desktop\SolucionEjemplo\vista\obj\Debug\vista.exe
 C:\Users\Usuario\Desktop\SolucionEjemplo\vista\obj\Debug\vista.pdb
+C:\Users\Usuario\Desktop\Proyecto_Base\vista\bin\Debug\vista.exe.config
+C:\Users\Usuario\Desktop\Proyecto_Base\vista\obj\Debug\vista.exe
+C:\Users\Usuario\Desktop\Proyecto_Base\vista\obj\Debug\vista.pdb
