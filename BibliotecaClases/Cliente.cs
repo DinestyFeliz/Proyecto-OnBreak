@@ -56,5 +56,10 @@ namespace BibliotecaClases
             set { _rut = value; }
         }
 
+        public Cliente()
+        {
+
+        }
+
     }
 }
