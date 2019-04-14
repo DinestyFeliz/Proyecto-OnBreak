@@ -1,0 +1,38 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vistar"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="vistar.wpfListarClientes"
+        mc:Ignorable="d"
+        Title="OnBreak - Lista de clientes" Height="311" Width="404" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DataGrid x:Name="dataGrid" Margin="10,42,10,0" VerticalAlignment="Top" Height="187"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Margin="313,245,0,0" VerticalAlignment="Top" Width="75" Click="btnSalir_Click"/>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="398">
+            <MenuItem Header="Filtrar">
+                <MenuItem Header="Rut">
+                    
+                </MenuItem>
+                <MenuItem Header="Tipo empresa">
+                    <MenuItem Header="SPA"></MenuItem>
+                    <MenuItem Header="EIRL"></MenuItem>
+                    <MenuItem Header="Limitada"></MenuItem>
+                    <MenuItem Header="Sociedad Anónima"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Actividad">
+                    <MenuItem Header="Agropecuaria"></MenuItem>
+                    <MenuItem Header="Minería"></MenuItem>
+                    <MenuItem Header="Manufactura"></MenuItem>
+                    <MenuItem Header="Comercio"></MenuItem>
+                    <MenuItem Header="Hotelería"></MenuItem>
+                    <MenuItem Header="Alimentos"></MenuItem>
+                    <MenuItem Header="Transporte"></MenuItem>
+                    <MenuItem Header="Servicios"></MenuItem>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>

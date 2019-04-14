@@ -1,0 +1,36 @@
+﻿<Window x:Class="vistar.wpfListarClienteAyuda"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vistar"
+        mc:Ignorable="d"
+        Title="OnBreak - Lista de clientes" Height="319" Width="415" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DataGrid x:Name="dataGrid" Margin="10,42,11,0" VerticalAlignment="Top" Height="187"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Margin="313,245,-104,-5" VerticalAlignment="Top" Width="75"/>
+        <Menu x:Name="menu" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="398" Margin="0,0,-114,0">
+            <MenuItem Header="Filtrar">
+                <MenuItem Header="Rut"/>
+                <MenuItem Header="Tipo empresa">
+                    <MenuItem Header="SPA"/>
+                    <MenuItem Header="EIRL"/>
+                    <MenuItem Header="Limitada"/>
+                    <MenuItem Header="Sociedad Anónima"/>
+                </MenuItem>
+                <MenuItem Header="Actividad">
+                    <MenuItem Header="Agropecuaria"/>
+                    <MenuItem Header="Minería"/>
+                    <MenuItem Header="Manufactura"/>
+                    <MenuItem Header="Comercio"/>
+                    <MenuItem Header="Hotelería"/>
+                    <MenuItem Header="Alimentos"/>
+                    <MenuItem Header="Transporte"/>
+                    <MenuItem Header="Servicios"/>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <Button x:Name="btnPasar" Content="Pasar" HorizontalAlignment="Left" Margin="217,245,0,0" VerticalAlignment="Top" Width="75" Click="btnPasar_Click"/>
+
+    </Grid>
+</Window>

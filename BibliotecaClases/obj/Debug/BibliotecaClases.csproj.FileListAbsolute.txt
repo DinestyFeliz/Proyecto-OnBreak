@@ -3,3 +3,8 @@ F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaClases\bin\Debug\Bibl
 F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaClases\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
 F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaClases\obj\Debug\BibliotecaClases.dll
 F:\Duoc UC\3 Semestre\Escritorio\SolucionEjemplo\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\BibliotecaClases\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\BibliotecaClases\obj\Debug\BibliotecaClases.pdb

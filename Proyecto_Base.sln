@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaControlador", "Bi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vista", "vista\vista.csproj", "{8158D2F3-322B-41A9-B7F2-4A364EC17997}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vista_", "vista_\vista_.csproj", "{4178A1E3-EAB3-4121-BE20-707585E1AED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vistar", "vistar\vistar.csproj", "{0EF704C9-F9F2-44D4-849F-C08F02317803}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{8158D2F3-322B-41A9-B7F2-4A364EC17997}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8158D2F3-322B-41A9-B7F2-4A364EC17997}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8158D2F3-322B-41A9-B7F2-4A364EC17997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4178A1E3-EAB3-4121-BE20-707585E1AED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4178A1E3-EAB3-4121-BE20-707585E1AED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4178A1E3-EAB3-4121-BE20-707585E1AED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4178A1E3-EAB3-4121-BE20-707585E1AED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF704C9-F9F2-44D4-849F-C08F02317803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF704C9-F9F2-44D4-849F-C08F02317803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF704C9-F9F2-44D4-849F-C08F02317803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF704C9-F9F2-44D4-849F-C08F02317803}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
