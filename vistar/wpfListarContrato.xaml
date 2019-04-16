@@ -11,10 +11,10 @@
         <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Margin="318,259,0,0" VerticalAlignment="Top" Width="75" Click="btnSalir_Click"/>
         <Menu x:Name="menu" HorizontalAlignment="Left" Height="23" VerticalAlignment="Top" Width="403">
         <MenuItem Header="Filtrar">
-            <MenuItem Header="Rut">
+            <MenuItem x:Name="menuFRut" Header="Rut" Click="menuFRut_Click">
 
             </MenuItem>
-            <MenuItem Header="Nº de contrato">
+            <MenuItem x:Name="menuFNContrato" Header="Nº de contrato">
 
             </MenuItem>
             <MenuItem Header="Tipo de contrato">
@@ -22,5 +22,6 @@
                 </MenuItem>
         </MenuItem>
         </Menu>
+        <Button x:Name="btnPasar" Content="Pasar" HorizontalAlignment="Left" Margin="213,259,0,0" VerticalAlignment="Top" Width="75" Click="btnPasar_Click"/>
     </Grid>
 </Window>

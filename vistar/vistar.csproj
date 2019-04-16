@@ -61,17 +61,17 @@
     <Compile Include="wpfContrato.xaml.cs">
       <DependentUpon>wpfContrato.xaml</DependentUpon>
     </Compile>
-    <Compile Include="wpfListarClienteAyuda.xaml.cs">
-      <DependentUpon>wpfListarClienteAyuda.xaml</DependentUpon>
+    <Compile Include="wpfFiltroRut.xaml.cs">
+      <DependentUpon>wpfFiltroRut.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="wpfLisCli.xaml.cs">
+      <DependentUpon>wpfLisCli.xaml</DependentUpon>
     </Compile>
     <Compile Include="wpfListarClientes.xaml.cs">
       <DependentUpon>wpfListarClientes.xaml</DependentUpon>
     </Compile>
     <Compile Include="wpfListarContrato.xaml.cs">
       <DependentUpon>wpfListarContrato.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="wpfListarContratoAyuda.xaml.cs">
-      <DependentUpon>wpfListarContratoAyuda.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -86,14 +86,18 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="wpfCliente.xaml">
-      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="wpfContrato.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="wpfListarClienteAyuda.xaml">
+    <Page Include="wpfFiltroRut.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="wpfLisCli.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -102,10 +106,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="wpfListarContrato.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="wpfListarContratoAyuda.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

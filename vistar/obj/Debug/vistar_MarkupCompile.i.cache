@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\App.xaml
-7-1706619199
+7-565269694
 
-151536840293
+151923082614
 13738642453
-MainWindow.xaml;wpfCliente.xaml;wpfContrato.xaml;wpfListarClienteAyuda.xaml;wpfListarClientes.xaml;wpfListarContrato.xaml;wpfListarContratoAyuda.xaml;
+MainWindow.xaml;wpfCliente.xaml;wpfContrato.xaml;wpfFiltroRut.xaml;wpfLisCli.xaml;wpfListarClientes.xaml;wpfListarContrato.xaml;
 
-False
+True
 

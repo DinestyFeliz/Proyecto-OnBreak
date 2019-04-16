@@ -19,7 +19,8 @@ namespace vistar
     /// </summary>
     public partial class wpfListarContrato : Window
     {
-        MainWindow ma;
+        //MainWindow ma;
+        wpfContrato con;
 
         public wpfListarContrato()
         {
@@ -29,14 +30,50 @@ namespace vistar
         public wpfListarContrato(MainWindow mw)
         {
             InitializeComponent();
-            ma = mw;
+            btnPasar.IsEnabled = false;
+            //ma = mw;
+        }
+
+        public wpfListarContrato(wpfContrato cn)
+        {
+            InitializeComponent();
+            con = cn;
         }
 
         private void btnSalir_Click(object sender, RoutedEventArgs e)
         {
-            MainWindow mw = new MainWindow(this);
-            mw.Show();
-            Close();
+            if (btnPasar.IsEnabled == false){
+                MainWindow mw = new MainWindow(this);
+                mw.Show();
+                Close();
+            }else{
+                Close();
+            }
+            
+        }
+
+        private void btnPasar_Click(object sender, RoutedEventArgs e)
+        {
+            con.txtNumCon.Text = "201915041158";
+            con.txtDireccion.Text = "Enrique Segoviano";
+            con.txtVigente.Text = "Si";
+            con.txtTotal.Text = "999999";
+        }
+
+        private void menuFRut_Click(object sender, RoutedEventArgs e)
+        {
+            wpfFiltroRut fr = new wpfFiltroRut();
+            fr.ShowDialog();
+
+            try
+            {
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
     }
 }

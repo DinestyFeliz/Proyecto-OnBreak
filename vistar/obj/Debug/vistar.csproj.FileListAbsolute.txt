@@ -19,7 +19,8 @@ C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfContrato.g.
 C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfContrato.baml
 C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfListarContrato.g.cs
 C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfListarContrato.baml
-C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfListarClienteAyuda.g.cs
-C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfListarClienteAyuda.baml
-C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfListarContratoAyuda.g.cs
-C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfListarContratoAyuda.baml
+C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\vistar.csprojResolveAssemblyReference.cache
+C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfLisCli.g.cs
+C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfLisCli.baml
+C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfFiltroRut.g.cs
+C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vistar\obj\Debug\wpfFiltroRut.baml

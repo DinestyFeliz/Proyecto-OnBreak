@@ -20,10 +20,6 @@ namespace vistar
     /// </summary>
     public partial class MainWindow : Window
     {
-        wpfContrato con;
-        wpfListarContrato liscon;
-        wpfCliente cli;
-        wpfListarClientes liscli;
 
         public MainWindow()
         {
@@ -34,25 +30,21 @@ namespace vistar
         public MainWindow(wpfContrato ct)
         {
             InitializeComponent();
-            con = ct;
         }
 
         public MainWindow(wpfListarContrato lc)
         {
             InitializeComponent();
-            liscon = lc;
         }
 
         public MainWindow(wpfCliente clien)
         {
             InitializeComponent();
-            cli = clien;
         }
 
         public MainWindow(wpfListarClientes lcl)
         {
             InitializeComponent();
-            lcl = liscli;
         }
 
         private void btnAdminCli_Click(object sender, RoutedEventArgs e)
@@ -64,9 +56,9 @@ namespace vistar
 
         private void btnListarCli_Click(object sender, RoutedEventArgs e)
         {
-            wpfListarClientes list = new wpfListarClientes(this);
-            list.Show();
-            this.Close();
+            wpfListarClientes lcli = new wpfListarClientes(this);
+            lcli.Show();
+            Close();
         }
 
         private void btnAdminCon_Click(object sender, RoutedEventArgs e)

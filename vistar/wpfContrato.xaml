@@ -36,11 +36,11 @@
         <TextBox x:Name="txtInicio" HorizontalAlignment="Left" Height="23" Margin="94,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtTermino" HorizontalAlignment="Left" Height="23" Margin="329,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtDireccion" HorizontalAlignment="Left" Height="23" Margin="94,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="355"/>
-        <TextBox x:Name="txtVigente" HorizontalAlignment="Left" Height="23" Margin="94,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="38"/>
+        <TextBox x:Name="txtVigente" HorizontalAlignment="Left" Height="23" Margin="94,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="28" IsEnabled="False" Text="--"/>
         <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="117,176,0,0" VerticalAlignment="Top" Width="146"/>
         <Button x:Name="btnBuscarCon" Content="Buscar" HorizontalAlignment="Left" Margin="241,18,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button x:Name="btnListarConA" Content="?" HorizontalAlignment="Left" Margin="329,18,0,0" VerticalAlignment="Top" Width="25"/>
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="329,174,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnListarConA" Content="?" HorizontalAlignment="Left" Margin="329,18,0,0" VerticalAlignment="Top" Width="25" Click="btnListarConA_Click"/>
+        <TextBox x:Name="txtTotal" HorizontalAlignment="Left" Height="23" Margin="329,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="btnVolver" Content="Volver" HorizontalAlignment="Left" Margin="622,334,0,0" VerticalAlignment="Top" Width="75" Click="btnVolver_Click"/>
         <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="552,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtApellidos" HorizontalAlignment="Left" Height="23" Margin="552,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>

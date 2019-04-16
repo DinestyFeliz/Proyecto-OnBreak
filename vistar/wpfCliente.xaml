@@ -18,17 +18,18 @@
         <ComboBox x:Name="cboActividad" HorizontalAlignment="Left" Margin="85,180,0,0" VerticalAlignment="Top" Width="133"/>
         <ComboBox x:Name="cboTipoEmp" HorizontalAlignment="Left" Margin="328,180,0,0" VerticalAlignment="Top" Width="133"/>
         <Button x:Name="btnRegistrar" Content="Registrar" HorizontalAlignment="Left" Margin="18,257,0,0" VerticalAlignment="Top" Width="75" Click="btnRegistrar_Click"/>
-        <Button x:Name="btnActualizar" Content="Actualizar" HorizontalAlignment="Left" Margin="118,257,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="225,257,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnActualizar" Content="Actualizar" HorizontalAlignment="Left" Margin="112,257,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="208,257,0,0" VerticalAlignment="Top" Width="75"/>
         <Button x:Name="btnVolver" Content="Volver" HorizontalAlignment="Left" Margin="386,257,0,0" VerticalAlignment="Top" Width="75" Click="btnVolver_Click"/>
         <TextBox x:Name="txtRut" HorizontalAlignment="Left" Height="23" Margin="69,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
         <TextBox x:Name="txtRazon" HorizontalAlignment="Left" Height="23" Margin="101,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360"/>
         <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="101,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360"/>
         <TextBox x:Name="txtCorreo" HorizontalAlignment="Left" Height="23" Margin="69,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191"/>
         <TextBox x:Name="txtFono" HorizontalAlignment="Left" Height="23" Margin="328,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133"/>
-        <Button x:Name="btnBuscar" Content="Buscar" HorizontalAlignment="Left" Margin="236,20,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnBuscar" Content="Buscar" HorizontalAlignment="Left" Margin="236,20,0,0" VerticalAlignment="Top" Width="75" Click="btnBuscar_Click"/>
         <Button x:Name="btnListarCli" Content="?" HorizontalAlignment="Left" Margin="328,20,0,0" VerticalAlignment="Top" Width="25" Click="btnListarCli_Click"/>
         <TextBox x:Name="txtDireccion" HorizontalAlignment="Left" Height="23" Margin="85,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="376"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="297,257,0,0" VerticalAlignment="Top" Width="75" Click="btnLimpiar_Click"/>
 
     </Grid>
 </Window>

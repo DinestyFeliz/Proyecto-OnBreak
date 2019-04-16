@@ -1,0 +1,16 @@
+﻿<Window x:Class="vistar.wpfFiltroRut"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vistar"
+        mc:Ignorable="d"
+        Title="Filtrar por rut" Height="150" Width="321" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="label" Content="Rut:" HorizontalAlignment="Left" Margin="35,28,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtFRut" HorizontalAlignment="Left" Height="23" Margin="86,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="184"/>
+        <Button x:Name="btnCancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="230,87,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnAceptar" Content="Aceptar" HorizontalAlignment="Left" Margin="131,87,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

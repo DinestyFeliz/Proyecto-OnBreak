@@ -39,8 +39,8 @@ namespace vistar
 
         private void btnListarCli_Click(object sender, RoutedEventArgs e)
         {
-            wpfListarClienteAyuda lc = new wpfListarClienteAyuda(this);
-            lc.Show();
+            wpfListarClientes lc = new wpfListarClientes(this);
+            lc.ShowDialog();
         }
 
         private void btnVolver_Click(object sender, RoutedEventArgs e)
@@ -48,6 +48,70 @@ namespace vistar
             MainWindow maw = new MainWindow(this);
             maw.Show();
             Close();
+        }
+
+        public void Buscar()
+        {
+            //try
+            //{
+            //    Persona p = new DaoPersona().
+            //        Buscar(txtRut.Text);
+            //    if (p != null)
+            //    {
+            //        txtApellido.Text = p.Apellido;
+            //        txtEdad.Text = p.Edad.ToString();
+            //        txtNombre.Text = p.Nombre;
+            //        cboSexo.Text = p.Sexo.ToString();
+            //    }
+            //    else
+            //    {
+            //        MessageBox.Show("no ta");
+            //    }
+            //}
+            //catch (Exception ex)
+            //{
+            //    MessageBox.Show("error buscar");
+            //    Logger.Mensaje(ex.Message);
+
+            //}
+        }
+
+        private void btnBuscar_Click(object sender, RoutedEventArgs e)
+        {
+            //try
+            //{
+            //    Persona p = new DaoPersona().
+            //        Buscar(txtRut.Text);
+            //    if (p != null)
+            //    {
+            //        txtApellido.Text = p.Apellido;
+            //        txtEdad.Text = p.Edad.ToString();
+            //        txtNombre.Text = p.Nombre;
+            //        cboSexo.Text = p.Sexo.ToString();
+            //    }
+            //    else
+            //    {
+            //        MessageBox.Show("no ta");
+            //    }
+            //}
+            //catch (Exception ex)
+            //{
+            //    MessageBox.Show("error buscar");
+            //    Logger.Mensaje(ex.Message);
+
+            //}
+        }
+
+        private void btnLimpiar_Click(object sender, RoutedEventArgs e)
+        {
+            txtRut.Focus();
+            txtRazon.Clear();
+            txtNombre.Clear();
+            txtFono.Clear();
+            txtDireccion.Clear();
+            txtCorreo.Clear();
+            cboActividad.SelectedIndex = 0;
+            cboTipoEmp.SelectedIndex = 0;
         }
     }
 }

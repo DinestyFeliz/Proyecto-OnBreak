@@ -41,7 +41,14 @@ namespace vistar
 
         private void btnListarA_Click(object sender, RoutedEventArgs e)
         {
+            wpfLisCli licli = new wpfLisCli(this);   //el (this) soluciona el error en wpfLisCli, del boton pasar
+            licli.ShowDialog();
+        }
 
+        private void btnListarConA_Click(object sender, RoutedEventArgs e)
+        {
+            wpfListarContrato lcon = new wpfListarContrato(this);
+            lcon.ShowDialog();
         }
     }
 }

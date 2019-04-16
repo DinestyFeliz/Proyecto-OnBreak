@@ -15,27 +15,23 @@ using System.Windows.Shapes;
 namespace vistar
 {
     /// <summary>
-    /// Lógica de interacción para wpfListarClienteAyuda.xaml
+    /// Lógica de interacción para wpfFiltroRut.xaml
     /// </summary>
-    public partial class wpfListarClienteAyuda : Window
+    public partial class wpfFiltroRut : Window
     {
-
-        wpfCliente cl; //no se porqué me da error si antes funcionaba (AAahhhh)
-
-        public wpfListarClienteAyuda()
+        public wpfFiltroRut()
         {
             InitializeComponent();
         }
 
-        public wpfListarClienteAyuda(wpfCliente clien)
+        public wpfFiltroRut(wpfListarClientes lic)
         {
             InitializeComponent();
-            clien = cl;
         }
 
-        private void btnPasar_Click(object sender, RoutedEventArgs e)
+        public wpfFiltroRut(wpfListarContrato licon)
         {
-            cl.txtRut.Text = "12122122";
+            InitializeComponent();
         }
     }
 }
