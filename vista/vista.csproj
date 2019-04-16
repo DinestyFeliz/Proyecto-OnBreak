@@ -109,16 +109,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\BibliotecaClases\BibliotecaClases.csproj">
-      <Project>{832173fd-686f-4523-b322-edfff9320f23}</Project>
-      <Name>BibliotecaClases</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\BibliotecaControlador\BibliotecaControlador.csproj">
-      <Project>{f078a05c-2cfe-46b0-8d88-42a0c295e76b}</Project>
-      <Name>BibliotecaControlador</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

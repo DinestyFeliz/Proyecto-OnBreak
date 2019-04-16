@@ -20,3 +20,6 @@ C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vista_\obj\Debug\vista_.Propert
 C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vista_\obj\Debug\vista_.csproj.GenerateResource.Cache
 C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vista_\obj\Debug\vista_.exe
 C:\Users\DaF2\Desktop\duplicado\Proyecto-OnBreak\vista_\obj\Debug\vista_.pdb
+C:\Users\Usuario\Desktop\Proyecto_Base\Proyecto_Base\vista_\bin\Debug\vista_.exe.config
+C:\Users\Usuario\Desktop\Proyecto_Base\Proyecto_Base\vista_\obj\Debug\vista_.exe
+C:\Users\Usuario\Desktop\Proyecto_Base\Proyecto_Base\vista_\obj\Debug\vista_.pdb
