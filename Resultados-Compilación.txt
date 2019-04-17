@@ -1,0 +1,21 @@
+﻿1>------ Operación Recompilar todo iniciada: proyecto: BibliotecaClases, configuración: Debug Any CPU ------
+2>------ Operación Recompilar todo iniciada: proyecto: WS, configuración: Debug Any CPU ------
+1>  BibliotecaClases -> C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+3>------ Operación Recompilar todo iniciada: proyecto: BibliotecaControlador, configuración: Debug Any CPU ------
+2>  WS -> C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\WS\bin\WS.dll
+3>  BibliotecaControlador -> C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+4>------ Operación Recompilar todo iniciada: proyecto: Consola, configuración: Debug Any CPU ------
+5>------ Operación Recompilar todo iniciada: proyecto: vista, configuración: Debug Any CPU ------
+4>  Consola -> C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\Consola\bin\Debug\Consola.exe
+6>------ Operación Recompilar todo iniciada: proyecto: vistar, configuración: Debug Any CPU ------
+5>  vista -> C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\vista\bin\Debug\vista.exe
+6>C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\vistar\wpfContrato.xaml.cs(25,21,25,27): warning CS0649: El campo 'wpfContrato.Daocon' nunca se asigna y siempre tendrá el valor predeterminado null
+6>C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\vistar\wpfLisCli.xaml.cs(24,21,24,23): warning CS0649: El campo 'wpfLisCli.co' nunca se asigna y siempre tendrá el valor predeterminado null
+6>C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\vistar\wpfContrato.xaml.cs(26,19,26,25): warning CS0649: El campo 'wpfContrato.Daoeve' nunca se asigna y siempre tendrá el valor predeterminado null
+6>C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\vistar\wpfListarClientes.xaml.cs(26,21,26,23): warning CS0169: El campo 'wpfListarClientes.co' nunca se usa
+6>C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\vistar\wpfContrato.xaml.cs(26,19,26,25): warning CS0649: El campo 'wpfContrato.Daoeve' nunca se asigna y siempre tendrá el valor predeterminado null
+6>C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\vistar\wpfLisCli.xaml.cs(24,21,24,23): warning CS0649: El campo 'wpfLisCli.co' nunca se asigna y siempre tendrá el valor predeterminado null
+6>C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\vistar\wpfListarClientes.xaml.cs(26,21,26,23): warning CS0169: El campo 'wpfListarClientes.co' nunca se usa
+6>C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\vistar\wpfContrato.xaml.cs(25,21,25,27): warning CS0649: El campo 'wpfContrato.Daocon' nunca se asigna y siempre tendrá el valor predeterminado null
+6>  vistar -> C:\Users\DaF2\Desktop\felix onbreak\Proyecto-OnBreak\vistar\bin\Debug\vistar.exe
+========== Recompilar todo: 6 correctos, 0 incorrectos, 0 omitidos ==========

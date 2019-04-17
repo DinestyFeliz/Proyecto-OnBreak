@@ -1,0 +1,26 @@
+﻿<Window x:Class="vista_.wpfCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vista_"
+        mc:Ignorable="d"
+        Title="OnBreak - Cliente" Height="320" Width="455" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Label x:Name="label" Content="Rut:" HorizontalAlignment="Left" Margin="28,25,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Nombre:" HorizontalAlignment="Left" Margin="28,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Apellido:" HorizontalAlignment="Left" Margin="227,71,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Direcciòn:" HorizontalAlignment="Left" Margin="28,174,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtRut" HorizontalAlignment="Left" Height="23" Margin="95,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="95,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtApellido" HorizontalAlignment="Left" Height="23" Margin="288,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtDireccion" HorizontalAlignment="Left" Height="23" Margin="95,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188" Text="Enrique Segoviano"/>
+        <Button x:Name="btnAyuda" Content="?" HorizontalAlignment="Left" Margin="227,29,0,0" VerticalAlignment="Top" Width="27"/>
+        <Label x:Name="label4" Content="Edad:" HorizontalAlignment="Left" Margin="28,121,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtEdad" HorizontalAlignment="Left" Height="23" Margin="95,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="63"/>
+        <Label x:Name="label5" Content="Sexo:" HorizontalAlignment="Left" Margin="227,118,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbxSexo" HorizontalAlignment="Left" Margin="288,121,0,0" VerticalAlignment="Top" Width="99"/>
+        <Button x:Name="btnBuscar" Content="Buscar" HorizontalAlignment="Left" Margin="288,29,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
