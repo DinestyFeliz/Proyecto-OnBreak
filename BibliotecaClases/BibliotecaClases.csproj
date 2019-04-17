@@ -44,7 +44,6 @@
     <Compile Include="Cliente.cs" />
     <Compile Include="Contrato.cs" />
     <Compile Include="Evento.cs" />
-    <Compile Include="Persona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

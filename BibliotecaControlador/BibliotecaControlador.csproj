@@ -43,7 +43,6 @@
     <Compile Include="DaoCliente.cs" />
     <Compile Include="DaoContrato.cs" />
     <Compile Include="DaoEvento.cs" />
-    <Compile Include="DaoPersona.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
